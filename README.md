@@ -9,7 +9,8 @@ Linkedlist2-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/mai
 Linkedlist3-o/p:https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB1/L_output3.png
 Linkedlist4-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB1/L_output4.png
 Linkedlist5-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB1/L-output5.png
-Listinterface1-o/p:
+Listinterface1-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB1/Listinterface_output.png
 lab2Performancetest-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB2/LAB2Performancetest.png
 lab2StringHandlingDemo-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB2/StringHnadlingDemo.png
+
 
