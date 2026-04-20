@@ -15,5 +15,8 @@ lab2StringHandlingDemo-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJa
 lab3StringBuildingFunctions-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB3/lab3output.png
 lab4SwingExample-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB4/4aoutput.png
 lab4ButtonExample-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB4/4boutput.png
-
+lab5JListExample-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB5/Lab5JListExample.png
+lab5TabbedPaneExample-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB5/Lab5TabbedPaneExample.png
+lab5CountryCapitalList-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB5/Lab5ColourTabbedPane.png
+lab5ColorTabbedPane-o/p: https://github.com/Sahanamarali/Assignment-AdvanceJava/blob/main/LAB5/lab5CountryCapital.png
 
